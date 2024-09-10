@@ -1,0 +1,41 @@
+Merhaba millet, Cursed Night 'ın ilk sürümünü yayınlamış olmaktan mutluluk duyuyorum.
+
+- SÜRÜM ÖZELLİKLERİ -
+
+- Balta kullanarak ağaç kesme sistemi eklendi.
+- Kazma kullanarak çeşitli cevherlere sahip kayaları kırabilme sistemi eklendi.
+- Envanter sistemi eklendi. 'Tab' tuşu ile erişebilir ve kaynaklarınızı yönetebilirsiniz.
+- Tabanca, Pompalı Tüfek, Nişancı Tüfeği, Taarruz Tüfeği, Yay, Arbalet gibi menzilli silahlar eklendi.
+- Balta, kazma, kılıç, beyzbol sopası, mızrak gibi yakın dövüş aletleri eklendi.
+- Yükleme ekranı eklendi. Harita yüklenirken veya oluşturulurken 'Yükleniyor' yazısı ve güzel bir resim birlikte görüntülenebilir.
+- Hava yardımı sistemi eklendi. Her gün öğlen rastgele bir konuma bırakılacak.
+- Yürüyen ve sürünen zombiler eklendi. Belirli bir mesafedeki oyuncuya saldıracaklar. Uzaklaşırsanız bir süre sonra sizi unutacaklar.
+- Geyik eklendi. Oyuncu yakınlaştığında korkacak ve kaçmaya çalışacak. Silahlarla veya aletlerle hasar verilebilir. Et, deri, hayvan yağı gibi malzemeler toplanabilir.
+- Orman, çöl, kış biyomları eklendi. Her birinin kendine ait bir doğası var.
+- Etrafta yaygın olarak bulunan malzemeler eklendi. Taş, odun gibi malzemeleri yerden toplayabilir, kuş yuvalarından tüy ve yumurta elde edebilirsin.
+- İnşaat sistemi eklendi. Bir sürü inşaat malzemesini kullanarak evler ve çeşitli yapılar inşa edebilirsin. Her bir inşa bloğunun yapı malzemesine göre dayanıklılığı vardır.
+- Çekiç kullanarak yapı geliştirme özelliği eklendi. Yeterli taş ve metal cevheri bulunduğunda blok geliştirilebilir.
+- Üretim sistemi eklendi. Envanter paneli içerisinde üretilebilen malzemelerin listesi var. Her bir eşyanın kendine has gerekli materyalleri ve üretim süreleri mevcut.
+- Kamp ateşi sistemi eklendi. Üretim sistemine benzer şekildedir fakat yalnızca yemekler kamp ateşinde üretilebilir. Kendine özel envanteri vardır.
+- Radyo sistemi eklendi. Araç içerisindeyken açılıp kapanabilir. Radyo kanalları sürekli olarak yayındadır ve senkronizedir.
+- Araç sistemi eklendi. Bir noktadan başka bir noktaya hızlı bir şekilde ulaşmak için kullanılabilir. 'E' tuşu ile araca girilebilir, 'F' tuşu ile bagajı kullanılabilir.
+- Yakıt sistemi eklendi. Araç hareket ettikçe yakıt harcanır. Depoyu yeniden doldurmak için benzin üretmek gerekir. Benzin seçiliyken araca 'F' tuşu ile doldurulabilir.
+- Yerleştirilebilir sandıklar eklendi. Ev bloklarına yerleştirilebilir ve envanter bu sayede boşaltılabilir.
+- Nişangah eklendi. Oyuncu ateş ettiğinde veya yakın mesafe silahını kullandığında animasyon oynayacak.
+- Göletler eklendi. Suyun içine girildiğinde görüş efektlerinin oluşması sağlandı. Ayrıca boş şişeler göletlerden doldurulabilir.
+- Oyuncu ayak sesleri eklendi. Yürüme ve koşma aktivitelerine göre farklı sesler oynatılıyor.
+- FPS göstergesi eklendi. Ayarlardan açılıp kapanabilir. Oyun içi performansı test etmek ve kare hızını görüntüleyebilmek için kullanışlı.
+- Fırın sistemi eklendi. Toplanılan madenlerin eritilmesi için biraz odun ve ham madde gereklidir.
+- Oyuncu durum göstergesi eklendi. Anlık olarak oyuncunun sağlık, yiyecek, su, enerji durumları kontrol edilebilir.
+- Sağlık durumu göstergeleri eklendi. Oyuncunun ayağı kırılırsa, kanaması varsa, sağlık-yiyecek-su miktarı az ise bildirimler görünecek.
+- Ganimet toplama sistemi eklendi. Çeşitli yapılar içerisinde bulunan ganimet kutuları 'E' tuşu kullanılarak toplanabilir. Her bir ganimet kutusunun türüne göre rastgele eşya oluşturma şansı vardır. Kutular toplandıktan sonra yok olur. Belirli bir süre sonra yeniden oluşturulur.
+- Harita ve mini harita sistemleri eklendi. Büyük harita 'M' tuşu ile açılabilir. Mini harita ise ekranda anlık olarak konumu gösterir.
+- Bitki yetiştirme özelliği eklendi. Bir tarla bloğu zemine veya bloğa yerleştirilebilir ve çeşitli tohumlar ekilebilir. Ekim yapıldıktan sonra temiz suyla sulanmalıdır.
+- Zaman sistemi eklendi. Harita oluşturulduktan sonra zaman ilerlemeye başlar. Zamana bağlı olarak gece-gündüz döngüsü gerçekleşir. Geceleri zaman daha hızlı geçer.
+- Zombi etkinliği (event) eklendi. Rastgele zamanlarda yoğun bir sis ile birlikte etrafta zombiler çoğalır.
+- Kayıt etme ve yükleme sistemi eklendi. Haritadaki nesneler, oyuncu bilgileri, ayarlar bu sistem kullanılarak kaydedilir ve tekrar yüklenebilir.
+- Çeviri sistemi eklendi. Şu anda türkçe ve ingilizce seçenekleri mevcut. Farklı dil seçenekleri eklememde gönüllü olarak yardım etmek isterseniz iletişime geçebilirsiniz.
+- Çeşitli optimizasyon teknikleri kullanıldı. Mesh optimizasyonu, occlusion culling, static batching, lod sistemi ve obje kapatma teknikleri kullanılarak performans iyileştirildi.
+
+
+Hepsi ve daha fazlası için takipte kalın. İyi eğlenceler..

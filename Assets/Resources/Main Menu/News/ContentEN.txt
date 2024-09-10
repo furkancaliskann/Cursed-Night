@@ -1,0 +1,41 @@
+Hello guys, I'm happy to release the first version of Cursed Night.
+
+- VERSION FEATURES -
+
+- Added tree cutting system using axe.
+- Added a system to break rocks with various ores using a pickaxe.
+- Inventory system added. You can access and manage your resources with the 'Tab' key.
+- Ranged weapons such as Pistol, Shotgun, Sniper Rifle, Assault Rifle, Bow and Crossbow have been added.
+- Melee tools such as axes, pickaxes, swords, baseball bats and spears have been added.
+- Added loading screen. While the map is being loaded or created, the text 'Loading' and a beautiful image would be displayed together.
+- Airdrop system added. It will be dropped off at a random location every day at noon.
+- Added walking and crawling zombies. They will attack the player at a certain distance. If you walk away, they will forget about you after a while.
+- Added deer. When the player gets close, it will get scared and try to run away. Damage can be done with weapons or tools. Materials such as meat, leather, animal fat can be collected.
+- Forest, desert, winter biomes added. Each has its own nature.
+- Added commonly found materials around. You can collect materials such as stones and wood from the ground, and obtain feathers and eggs from bird nests.
+- Construction system added. You can build houses and various structures using a lot of construction materials. Each building block has a durability depending on the building material.
+- Added building upgrade feature using hammer. Blocks can be upgrade when enough stone and metal ore are found.
+- Crafting system added. There is a list of materials that can be craft in the inventory panel. Each item has its own required materials and crafting times.
+- Added campfire system. It's similar to the crafting system, but only food can be crafted over a campfire. It has its own special inventory.
+- Radio system added. It can be opened and closed while in the vehicle. Radio channels are always on air and synchronized.
+- Vehicle system added. It can be used to quickly reach from one point to another. You can enter the vehicle with the 'E' key, and use the trunk with the 'F' key.
+- Fuel system added. Fuel is consumed as the vehicle moves. It is necessary to produce gasoline to refill the tank. While gasoline is selected, the vehicle can be filled with the 'F' key.
+- Added placeable chests. It can be placed in blocks, inventory can be cleared this way.
+- Crosshair added. The animation will play when the player shoots or uses a close range weapon.
+- Lakes added. Visual effects have been enabled when entering water. Additionally, empty bottles can be filled from lakes.
+- Added player footsteps. Different sounds are played according to walking and running activities.
+- FPS counter added. It can be turned on and off from the settings. Useful for testing in-game performance and viewing frame rate.
+- Furnace system added. Some wood and raw materials are required to smelt the collected ores.
+- Added player status indicator. The player's health, food, water and energy status can be checked instantly.
+- Added health status indicators. Notifications will appear if the player has a broken leg, is bleeding, or is low on health, food, or water.
+- Added looting system. Loot boxes located in various buildings can be collected by using the 'E' key. Each loot box has a chance to generate random items based on its type. The boxes disappear after being collected. It is recreated after a certain period of time.
+- Map and mini map systems added. The large map can be opened with the 'M' key. The mini map shows the current location on the screen.
+- Added plant growing feature. A farming block can be placed on the ground or block and a variety of seeds can be planted. After planting, it should be watered with clean water.
+- Time system added. Once the map is created, time starts to progress. A day-night cycle occurs depending on time. Time passes faster at night.
+- Zombie event added. At random times, zombies multiply around with a dense fog.
+- Added save and load system. Objects on the map, player information, settings can be saved and loaded again using this system.
+- Translation system added. Turkish and English options are currently available. If you would like to volunteer to help me add different language options, you can contact me.
+- Various optimization techniques were used. Performance was improved by using mesh optimization, occlusion culling, static batching, lod system and object occlusion techniques.
+
+
+Stay tuned for all this and more. Enjoy..

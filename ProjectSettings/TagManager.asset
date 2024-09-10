@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MapCamera
+  - GameManager
+  - DroppedItem
+  - Rock
+  - Stone
+  - WoodPile
+  - Mushroom
+  - Zombie
+  - CollectableItem
+  - Mine
+  - Tree
+  - Loot
+  - PlacedStructure
+  - DeadZombie
+  - Terrain
+  - BuildingPreview
+  - Building
+  - DesertTree
+  - Backpack
+  - Car
+  - Water
+  - Animal
+  - GameOptions
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - IgnoreAmmoTrace
+  - Water
+  - UI
+  - Yer
+  - PlayerItem
+  - OtomatikYerlestir
+  - Post Processing
+  - MiniMapObjects
+  - Map
+  - Foundation
+  - CarWheel
+  - CollectableItem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

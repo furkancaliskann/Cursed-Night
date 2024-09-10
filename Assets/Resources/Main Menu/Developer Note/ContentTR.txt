@@ -1,0 +1,7 @@
+Cursed Night, bir açık dünya hayatta kalma oyunu projesidir.
+Henüz geliştirilme aşamasında olduğu için Alpha sürümü olarak çıkış yapmıştır.
+Gelecekteki sürümlerde bazı içeriklerin tamamen değişebileceğini veya yenilenebileceğini unutmayın.
+Oynadığınız süre boyunca hatalar ile karşılaşabilirsiniz. Bu hataları steam, twitter, youtube gibi kanallardan bana iletebilirsiniz.
+Soru, istek ve önerileriniz için de bana ulaşabilirsiniz.
+
+İyi eğlenceler dilerim..
